@@ -1,0 +1,31 @@
+{ "consdivsp": {
+    "response": true,
+    "message": "API encontrada com sucesso",
+    "data": {
+        "RETORNO": "00",
+        "RETORNOTEXTO": "RETORNO OK",
+        "CREDOR": "1",
+        "REGIS": "1059127",
+        "DIVIDA": {
+            "PREST": [
+                {
+                    "CREDOR": "1",
+                    "PRODUTO": "SEMPARAR",
+                    "CONTRATO": "1101059127",
+                    "VENCIMENTO": "2009-04-13",
+                    "NUMPREST": "24129869",
+                    "VALPRINC": "116,72"
+                },
+                {
+                    "CREDOR": "1",
+                    "PRODUTO": "SEMPARAR",
+                    "CONTRATO": "1101059127",
+                    "VENCIMENTO": "2009-05-11",
+                    "NUMPREST": "24960650",
+                    "VALPRINC": "18,44"
+                }
+            ]
+        }
+    }
+}
+}
