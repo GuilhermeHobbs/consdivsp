@@ -5,27 +5,26 @@
         "RETORNO": "00",
         "RETORNOTEXTO": "RETORNO OK",
         "CREDOR": "1",
-        "REGIS": "1059127",
+        "REGIS": "3328813",
         "DIVIDA": {
             "PREST": [
                 {
                     "CREDOR": "1",
                     "PRODUTO": "SEMPARAR",
-                    "CONTRATO": "1101059127",
-                    "VENCIMENTO": "2009-04-13",
-                    "NUMPREST": "24129869",
-                    "VALPRINC": "116,72"
+                    "CONTRATO": "1103328813",
+                    "VENCIMENTO": "2014-05-12",
+                    "NUMPREST": "147797166",
+                    "VALPRINC": "17,28"
                 },
                 {
                     "CREDOR": "1",
                     "PRODUTO": "SEMPARAR",
-                    "CONTRATO": "1101059127",
-                    "VENCIMENTO": "2009-05-11",
-                    "NUMPREST": "24960650",
-                    "VALPRINC": "18,44"
+                    "CONTRATO": "1103328813",
+                    "VENCIMENTO": "2014-06-10",
+                    "NUMPREST": "150910596",
+                    "VALPRINC": "34,56"
                 }
             ]
         }
     }
-}
 }
