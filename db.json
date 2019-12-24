@@ -1,31 +1,32 @@
-{ "consdivsp": {
-    "response": true,
-    "message": "API encontrada com sucesso",
-    "data": {
-        "RETORNO": "00",
-        "RETORNOTEXTO": "RETORNO OK",
-        "CREDOR": "1",
-        "REGIS": "3328813",
-        "DIVIDA": {
-            "PREST": [
-                {
-                    "CREDOR": "1",
-                    "PRODUTO": "SEMPARAR",
-                    "CONTRATO": "1103328813",
-                    "VENCIMENTO": "2014-05-12",
-                    "NUMPREST": "147797166",
-                    "VALPRINC": "17,28"
-                },
-                {
-                    "CREDOR": "1",
-                    "PRODUTO": "SEMPARAR",
-                    "CONTRATO": "1103328813",
-                    "VENCIMENTO": "2014-06-10",
-                    "NUMPREST": "150910596",
-                    "VALPRINC": "34,56"
-                }
-            ]
+{
+    "consdivsp": {
+        "response": true,
+        "message": "API encontrada com sucesso",
+        "data": {
+            "RETORNO": "00",
+            "RETORNOTEXTO": "RETORNO OK",
+            "CREDOR": "1",
+            "REGIS": "5399379",
+            "DIVIDA": {
+                "PREST": [
+                    {
+                        "CREDOR": "1",
+                        "PRODUTO": "SEMPARAR",
+                        "CONTRATO": "1105399379",
+                        "VENCIMENTO": "2017-02-20",
+                        "NUMPREST": "266910104",
+                        "VALPRINC": "196,52"
+                    },
+                    {
+                        "CREDOR": "1",
+                        "PRODUTO": "SEMPARAR",
+                        "CONTRATO": "1105399379",
+                        "VENCIMENTO": "2017-03-20",
+                        "NUMPREST": "270806527",
+                        "VALPRINC": "39,44"
+                    }
+                ]
+            }
         }
     }
-  }
-}  
+}
